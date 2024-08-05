@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"_app.tsx -> @tanstack/react-query-devtools/build/lib/index.prod.js":{"id":"_app.tsx -> @tanstack/react-query-devtools/build/lib/index.prod.js","files":["static/chunks/node_modules_tanstack_react-query-devtools_build_lib_index_prod_mjs.js"]}}
